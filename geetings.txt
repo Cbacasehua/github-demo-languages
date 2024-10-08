@@ -3,4 +3,5 @@ Hola Mundo
 Ola mundo
 Oi mundo
 Ciao mondo
-Bonjour le monde 
+Bonjour le monde
+こんにちは世界 
